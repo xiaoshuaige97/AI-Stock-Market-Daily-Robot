@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "feat: 投资晨报自动化系统"
+git remote add origin https://github.com/xiaoshuaige97/AI-Stock-Market-Daily-Robot.git
+git push -u origin main
